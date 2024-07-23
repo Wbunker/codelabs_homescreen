@@ -1,4 +1,4 @@
-package com.example.codelabs_homescreen
+package com.thebunkers.homewidgetflutter
 
 import io.flutter.embedding.android.FlutterActivity
 
